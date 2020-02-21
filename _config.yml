@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 name: Noah Seminoff
 title: Welcome to Noah's homepage!
 description: This page will contain my projects.
+markdown: kramdown

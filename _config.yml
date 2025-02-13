@@ -99,9 +99,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-# Defaults
-defaults:
-    values:
-      mathjax: true
-

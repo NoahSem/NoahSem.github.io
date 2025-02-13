@@ -3,7 +3,7 @@ layout: post
 title: Analysis of Gaming Trends
 date: 2025-02-12
 author: Noah Seminoff
-categories: Data Science
+categories: Data-Science
 published: true
 ---
 One of my favourite things to do is to make something. Whether this is music, woodworking, writing code; the feeling of bringing something to life that you made yourself never gets old. The feeling of "*I* made that". Lately, i've been trying my hand at combining this with one of my other favourite things to do, playing video games. There has never been a better time than the present to make video games. Numerous tutorials, documentation, free tools and game engines have made it incredibly easy to start. Additionally, the last decade has seen an increase in the popularity and number of releases of indie games (*indie* or *independent* games are made without the support of a large publisher, usually by a solo developer or a small team). If I were to create my own video game, what sort of things are important? What aspects are important in popular games? To this end, I wanted to analyze trends in the gaming ecosystem, to see what I could find out. A couple questions to start off:

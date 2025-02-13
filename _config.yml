@@ -102,10 +102,6 @@ exclude:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: post
     values:
       mathjax: true
 
